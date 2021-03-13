@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  
+
 # sidebar navigation list sample
 sidebar-sample:
   - title: "Parent Page A"
@@ -54,3 +54,4 @@ sidebar-sample:
         url: /
       - title: "Child Page D2"
         url: /
+
