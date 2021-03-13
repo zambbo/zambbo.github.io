@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Algorithm
 title: What is Dynamic Programming?
 toc: true
 toc_label: "about DP"
