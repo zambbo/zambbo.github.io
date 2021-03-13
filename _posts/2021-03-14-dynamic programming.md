@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 categories: Algorithm
 title: What is Dynamic Programming?
 toc: true
