@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Zambbo's blog"
-title_separator          : "|"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "zambbo"
 description              : "site with minimal-mistakes"
@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**stupid** student"
   location         : "Seoul,Korea"
-  email            : "rhkrqnwk1@naver.com
+  email            : "rhkrqnwk1@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
