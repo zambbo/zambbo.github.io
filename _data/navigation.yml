@@ -3,7 +3,7 @@ main:
   - title: "enter the blog"
     url: /
   - title: "About"
-    url: /about/
+    url: /about/ff
 
 # sidebar navigation list sample
 sidebar-sample:
