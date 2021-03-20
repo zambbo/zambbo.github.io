@@ -1,9 +1,13 @@
 # main links
 main:
+  - title: "categories"
+    url: /categories/
   - title: "enter the blog"
     url: /
   - title: "About"
     url: /about/ff
+  - title: "Pages"
+    url: /Page-archive/
 
 # sidebar navigation list sample
 sidebar-sample:
